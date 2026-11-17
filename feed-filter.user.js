@@ -9,8 +9,8 @@
 // @run-at       document-start
 // @noframes
 // @grant        none
-// @updateURL    https://iwanttomlb.github.io/feed-filter/feed-filter.user.js
-// @downloadURL  https://iwanttomlb.github.io/feed-filter/feed-filter.user.js
+// @updateURL    https://iwanttomlb-collab.github.io/feed-filter/feed-filter.user.js
+// @downloadURL  https://iwanttomlb-collab.github.io/feed-filter/feed-filter.user.js
 // ==/UserScript==
 
 (function () {
